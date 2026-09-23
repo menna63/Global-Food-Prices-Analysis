@@ -29,8 +29,8 @@ The dataset contains food price information from different countries, markets, c
 ## Project Files
 
 * `FoodPrices_project.pbix` – Power BI report containing the data transformations, data model, and interactive dashboard.
-* `Star_Schema.png` – Visualization of the designed data model.
-* `Dashboard_Screenshot.png` – Preview of the final dashboard.
+* `Images/Star_Schema.png` – Visualization of the designed data model.
+* `Images/Dashboard_screenshot.png` – Preview of the final dashboard.
 
 ## Key Skills Demonstrated
 
